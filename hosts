@@ -9,9 +9,9 @@
 199.232.69.194 github.global.ssl.fastly.net
 
 # Github SSH
-Host github.com
-Hostname ssh.github.com
-Port 443
+# Host github.com
+# Hostname ssh.github.com
+# Port 443
 
 # Google
 142.250.190.36 Google.com
