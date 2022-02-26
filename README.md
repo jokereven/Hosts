@@ -1,6 +1,10 @@
 ## `Hosts`
 
 ### `SwitchHosts`
+
+![Hosts]('https://raw.githubusercontent.com/jokereven/Hosts/main/Hosts.png')
+
+url: https://cdn.jsdelivr.net/gh/jokereven/Hosts@main/hosts
 ```
 远程hosts配置文件
 ```
